@@ -220,4 +220,4 @@ AnimalCare/
 
 ## 👥 Authors
 
-- **Safwan-Ahmed Islam** — [GitHub](https://github.com/safwan-islam) · [LinkedIn](https://linkedin.com/in/safwan-islam)
+- **Safwan-Ahmed Islam** — [GitHub](https://github.com/safwan-islam) · [LinkedIn](https://www.linkedin.com/in/safwan-ahmed-islam)
